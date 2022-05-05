@@ -69,13 +69,13 @@ flex-direction: column;
     }
   
     article ol li {
-      margin-left: 3%;
+      margin-left: 5%;
       margin-bottom: 2%;
       font-size: 1.5vw;
     }
 
     article ul li {
-      margin-left: 3%;
+      margin-left: 5%;
       margin-bottom: 2%;
       font-size: 1.5vw;
     }
